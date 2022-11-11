@@ -1,0 +1,1 @@
+cmd_drivers/muic/built-in.o :=   rm -f drivers/muic/built-in.o; ar rcSTPD drivers/muic/built-in.o drivers/muic/muic-core.o drivers/muic/muic_notifier.o drivers/muic/keyboard_notifier.o drivers/muic/universal/built-in.o 

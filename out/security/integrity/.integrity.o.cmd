@@ -1,0 +1,1 @@
+cmd_security/integrity/integrity.o :=  rm -f security/integrity/integrity.o; ar rcSTPD security/integrity/integrity.o security/integrity/iint.o security/integrity/integrity_audit.o security/integrity/digsig.o security/integrity/digsig_asymmetric.o 

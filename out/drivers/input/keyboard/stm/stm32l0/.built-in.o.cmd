@@ -1,0 +1,1 @@
+cmd_drivers/input/keyboard/stm/stm32l0/built-in.o :=   rm -f drivers/input/keyboard/stm/stm32l0/built-in.o; ar rcSTPD drivers/input/keyboard/stm/stm32l0/built-in.o drivers/input/keyboard/stm/stm32l0/stm32_pogo_i2c.o drivers/input/keyboard/stm/stm32l0/stm32_pogo_keyboard.o drivers/input/keyboard/stm/stm32l0/stm32_pogo_touchpad.o 

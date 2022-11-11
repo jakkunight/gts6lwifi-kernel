@@ -1,0 +1,1 @@
+cmd_drivers/adsp_factory/built-in.o :=   rm -f drivers/adsp_factory/built-in.o; ar rcSTPD drivers/adsp_factory/built-in.o drivers/adsp_factory/adsp_factory.o drivers/adsp_factory/ssc_core.o drivers/adsp_factory/lsm6dso_accel.o drivers/adsp_factory/lsm6dso_gyro.o drivers/adsp_factory/ak09918_mag.o drivers/adsp_factory/veml3328_light.o 

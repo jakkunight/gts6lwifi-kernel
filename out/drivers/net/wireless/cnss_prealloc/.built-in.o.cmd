@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/cnss_prealloc/built-in.o :=   rm -f drivers/net/wireless/cnss_prealloc/built-in.o; ar rcSTPD drivers/net/wireless/cnss_prealloc/built-in.o drivers/net/wireless/cnss_prealloc/cnss_prealloc.o 

@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/built-in.o :=   rm -f drivers/input/touchscreen/built-in.o; ar rcSTPD drivers/input/touchscreen/built-in.o drivers/input/touchscreen/of_touchscreen.o drivers/input/touchscreen/stm/fts1ba90a/built-in.o 
