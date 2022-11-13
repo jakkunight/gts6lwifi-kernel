@@ -1,1 +1,0 @@
-cmd_drivers/block/built-in.o :=   rm -f drivers/block/built-in.o; ar rcSTPD drivers/block/built-in.o drivers/block/brd.o drivers/block/loop.o drivers/block/zram/built-in.o drivers/block/vs_block_server.o drivers/block/vs_block_client.o 

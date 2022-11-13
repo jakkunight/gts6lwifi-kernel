@@ -1,1 +1,0 @@
-cmd_drivers/net/ethernet/qualcomm/rmnet/built-in.o :=   rm -f drivers/net/ethernet/qualcomm/rmnet/built-in.o; ar rcSTPD drivers/net/ethernet/qualcomm/rmnet/built-in.o drivers/net/ethernet/qualcomm/rmnet/rmnet_data_pm_argos.o drivers/net/ethernet/qualcomm/rmnet/rmnet.o 

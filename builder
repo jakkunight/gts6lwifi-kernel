@@ -154,6 +154,10 @@ function set_compiler(){
 # Main:
 end=1
 while [ $end -eq 1 ]; do
+	clear
+	printf "${blue} BUILDER SCRIPT (v0.0.1) ${reset}"
+	printf "${blue} Author: Jakku Night (@jakkunight ${reset})"
+	printf "${green} Select your action: ${reset}"
 	select action in "Clean evironment." "Edit config file." "Set default compiler" "Build the kernel." "Exit"; do
 		case $action in
 			"Clean evironment.")

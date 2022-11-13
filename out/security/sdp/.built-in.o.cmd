@@ -1,1 +1,0 @@
-cmd_security/sdp/built-in.o :=   rm -f security/sdp/built-in.o; ar rcSTPD security/sdp/built-in.o security/sdp/dek.o security/sdp/dek_aes.o security/sdp/pub_crypto_emul.o security/sdp/dek_sysfs.o security/sdp/cache_cleanup.o security/sdp/kek_pack.o security/sdp/fs_handler.o security/sdp/dd_core.o security/sdp/dd_xattr.o security/sdp/dd_kernel_crypto.o 

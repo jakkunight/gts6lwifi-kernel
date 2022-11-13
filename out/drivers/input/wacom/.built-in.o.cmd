@@ -1,1 +1,0 @@
-cmd_drivers/input/wacom/built-in.o :=   rm -f drivers/input/wacom/built-in.o; ar rcSTPD drivers/input/wacom/built-in.o drivers/input/wacom/wacom_i2c.o drivers/input/wacom/wacom_i2c_sec.o drivers/input/wacom/wacom_i2c_elec.o drivers/input/wacom/w9020_flash.o 

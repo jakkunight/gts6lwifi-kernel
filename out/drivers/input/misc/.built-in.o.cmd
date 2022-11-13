@@ -1,1 +1,0 @@
-cmd_drivers/input/misc/built-in.o :=   rm -f drivers/input/misc/built-in.o; ar rcSTPD drivers/input/misc/built-in.o drivers/input/misc/qpnp-power-on.o drivers/input/misc/qti-haptics.o drivers/input/misc/uinput.o 

@@ -1,1 +1,0 @@
-cmd_drivers/char/diag/built-in.o :=   rm -f drivers/char/diag/built-in.o; ar rcSTPD drivers/char/diag/built-in.o drivers/char/diag/diagchar.o drivers/char/diag/diagfwd_bridge.o drivers/char/diag/diagfwd_mhi.o 
