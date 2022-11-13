@@ -89,7 +89,7 @@ function set_gcc_path(){
 }
 
 # Get Clang toolchain path:
-function set_gcc_path(){
+function set_clang_path(){
 	info "Set the absolute path to your GCC toolchain dir:"
 	read -p "Path: " CLANG_PATH
 	export CC=clang
